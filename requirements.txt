@@ -1,0 +1,19 @@
+
+
+[![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)]()
+
+## 🚀 Sobre o projeto
+O **AnaliCred** é uma ferramenta de **análise de crédito automatizada** para empresas listadas na B3.  
+Ele gera **ratings e relatórios financeiros** a partir de indicadores como liquidez, endividamento e rentabilidade.
+
+## 🛠️ Tecnologias utilizadas
+- Python 3.10+
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## 📂 Estrutura do projeto
